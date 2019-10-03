@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "/home/johngillott/waiig/01"
+		}
+	],
+	"settings": {
+		"go.inferGopath": true
+	}
+}
